@@ -1,0 +1,41 @@
+2025-12-20 21:11:56,204 - __main__ - WARNING - [BLOCKED] Not matched any allowlist regex. Command: ssh -v user@10.129.42.5
+2025-12-20 21:12:24,906 - __main__ - WARNING - [BLOCKED] Not matched any allowlist regex. Command: traceroute 10.129.42.5
+2025-12-20 21:13:43,812 - __main__ - INFO - Saved 23 messages to /home/pentestagent/Desktop/pentest-agent-new/recon_memory/lame.json
+2025-12-20 21:13:43,813 - __main__ - INFO - Wrote recon artifact: /home/pentestagent/Desktop/pentest-agent-new/recon_memory/lame_artifact.json
+2025-12-20 23:54:00,604 - __main__ - WARNING - [BLOCKED] Not matched any allowlist regex. Command: ports=$(nmap -p- --min-rate=1000 -T4 10.129.42.5 | grep '^[0-9]' | cut -d '/' -f 1 | tr '
+' ',' | sed 's/,$//')
+nmap -p$ports -sC -sV 10.129.42.5
+2025-12-20 23:55:49,827 - __main__ - WARNING - [BLOCKED] Not matched any allowlist regex. Command: smbmap -H 10.129.42.5
+2025-12-20 23:58:41,954 - __main__ - INFO - Saved 23 messages to /home/pentestagent/Desktop/pentest-agent-new/recon_memory/lame.json
+2025-12-20 23:58:41,955 - __main__ - INFO - Wrote recon artifact: /home/pentestagent/Desktop/pentest-agent-new/recon_memory/lame_artifact.json
+2025-12-21 09:50:10,848 - __main__ - ERROR - API call failed (attempt 1/3): Error code: 401 - {'error': {'message': 'The OpenAI account associated with this API key has been deactivated. If you are the developer for this OpenAI app, please check your email for more information. If you are seeing this error while using another app or site, please reach out to them for more help.', 'type': 'invalid_request_error', 'code': 'account_deactivated', 'param': None}, 'status': 401}
+2025-12-21 09:50:13,269 - __main__ - ERROR - API call failed (attempt 2/3): Error code: 401 - {'error': {'message': 'The OpenAI account associated with this API key has been deactivated. If you are the developer for this OpenAI app, please check your email for more information. If you are seeing this error while using another app or site, please reach out to them for more help.', 'type': 'invalid_request_error', 'code': 'account_deactivated', 'param': None}, 'status': 401}
+2025-12-21 09:56:18,152 - __main__ - WARNING - [BLOCKED] Not matched any allowlist regex. Command: ports=$(nmap -p- --min-rate=1000 -T4 10.129.42.5 | grep '^[0-9]' | cut -d '/' -f 1 | tr '
+' ',' | sed 's/,$//')
+nmap -p$ports -sC -sV 10.129.42.5
+2025-12-21 09:58:42,704 - __main__ - INFO - Saved 13 messages to /home/pentestagent/Desktop/pentest-agent-new/recon_memory/lame.json
+2025-12-21 09:58:42,706 - __main__ - INFO - Wrote recon artifact: /home/pentestagent/Desktop/pentest-agent-new/recon_memory/lame_artifact.json
+2025-12-21 10:22:30,525 - __main__ - WARNING - [BLOCKED] Not matched any allowlist regex. Command: ports=$(nmap -p- --min-rate=1000 -T4 10.129.42.5 | grep '^[0-9]' | cut -d '/' -f 1 | tr '
+' ',' | sed 's/,$//')
+nmap -p$ports -sC -sV 10.129.42.5
+2025-12-21 10:25:20,863 - __main__ - INFO - Saved 17 messages to /home/pentestagent/Desktop/pentest-agent-new/recon_memory/lame.json
+2025-12-21 10:25:20,864 - __main__ - INFO - Wrote recon artifact: /home/pentestagent/Desktop/pentest-agent-new/recon_memory/lame_artifact.json
+2025-12-21 10:42:04,781 - __main__ - WARNING - [BLOCKED] Not matched any allowlist regex. Command: ports=$(nmap -p- --min-rate=1000 -T4 10.129.42.5 | grep '^[0-9]' | cut -d '/' -f 1 | tr '
+' ',' | sed 's/,$//')
+nmap -p$ports -sC -sV 10.129.42.5
+2025-12-21 10:44:40,261 - __main__ - INFO - Saved 15 messages to /home/pentestagent/Desktop/pentest-agent-new/recon_memory/lame.json
+2025-12-21 10:44:40,262 - __main__ - INFO - Wrote recon artifact: /home/pentestagent/Desktop/pentest-agent-new/recon_memory/lame_artifact.json
+2025-12-23 12:15:19,505 - __main__ - INFO - Saved 11 messages to /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-LAME.json
+2025-12-23 12:15:19,507 - __main__ - INFO - Wrote recon artifact: /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-LAME_artifact.json
+2025-12-23 13:00:33,098 - __main__ - INFO - Saved 11 messages to /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-LAME.json
+2025-12-23 13:00:33,104 - __main__ - INFO - Wrote recon artifact: /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-LAME_artifact.json
+2025-12-23 13:05:54,290 - __main__ - INFO - Saved 7 messages to /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-LAME.json
+2025-12-23 13:05:54,291 - __main__ - INFO - Wrote recon artifact: /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-LAME_artifact.json
+2025-12-23 13:17:09,741 - __main__ - INFO - Saved 11 messages to /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-LAME.json
+2025-12-23 13:17:09,742 - __main__ - INFO - Wrote recon artifact: /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-LAME_artifact.json
+2025-12-23 13:30:14,803 - __main__ - INFO - Saved 23 messages to /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-LAME.json
+2025-12-23 13:30:14,806 - __main__ - INFO - Wrote recon artifact: /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-LAME_artifact.json
+2025-12-23 13:55:20,183 - __main__ - INFO - Saved 9 messages to /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-LAME.json
+2025-12-23 13:55:20,184 - __main__ - INFO - Wrote recon artifact: /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-LAME_artifact.json
+2025-12-23 22:16:10,726 - __main__ - INFO - Saved 9 messages to /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-SHOCKER.json
+2025-12-23 22:16:10,729 - __main__ - INFO - Wrote recon artifact: /home/pentestagent/Desktop/pentest-agent-new/recon_memory/HTB-SHOCKER_artifact.json

@@ -1,0 +1,410 @@
+2025-12-23 14:08:39 INFO     Using model: openai
+2025-12-23 14:08:39 INFO     Planning input: product=Unknown keyword= version= topic=HTB-LAME
+2025-12-23 14:14:23 INFO     Analyzing CVE-2023-7299
+2025-12-23 14:14:27 INFO     Analyzing CVE-2023-7299
+2025-12-23 14:14:27 INFO     Analysis time: 0.000244140625 seconds
+2025-12-23 14:14:27 INFO     Analyzing CVE-2023-7279
+2025-12-23 14:14:31 INFO     Analyzing CVE-2023-7279
+2025-12-23 14:14:31 INFO     Analysis time: 0.00010848045349121094 seconds
+2025-12-23 14:14:31 INFO     Analyzing CVE-2023-7259
+2025-12-23 14:14:36 INFO     Analyzing CVE-2023-7259
+2025-12-23 14:14:36 INFO     Analysis time: 0.00010561943054199219 seconds
+2025-12-23 14:14:36 INFO     Analyzing CVE-2023-7226
+2025-12-23 14:14:40 INFO     Analyzing CVE-2023-7226
+2025-12-23 14:14:40 INFO     Analysis time: 0.00017213821411132812 seconds
+2025-12-23 14:14:40 INFO     Analyzing CVE-2023-7223
+2025-12-23 14:14:44 INFO     Analyzing CVE-2023-7223
+2025-12-23 14:14:44 INFO     Analysis time: 0.00010633468627929688 seconds
+2025-12-23 14:14:44 INFO     Analyzing CVE-2023-7215
+2025-12-23 14:14:48 INFO     Analyzing CVE-2023-7215
+2025-12-23 14:14:48 INFO     Analysis time: 0.00010943412780761719 seconds
+2025-12-23 14:14:48 INFO     Analyzing CVE-2023-7212
+2025-12-23 14:14:53 INFO     Analyzing CVE-2023-7212
+2025-12-23 14:14:53 INFO     Analysis time: 0.00010752677917480469 seconds
+2025-12-23 14:14:53 INFO     Analyzing CVE-2023-7211
+2025-12-23 14:14:57 INFO     Analyzing CVE-2023-7211
+2025-12-23 14:14:57 INFO     Analysis time: 0.0001461505889892578 seconds
+2025-12-23 14:14:57 INFO     Analyzing CVE-2023-7210
+2025-12-23 14:15:02 INFO     Analyzing CVE-2023-7210
+2025-12-23 14:15:02 INFO     Analysis time: 0.0004897117614746094 seconds
+2025-12-23 14:15:02 INFO     Analyzing CVE-2023-7209
+2025-12-23 14:15:08 INFO     Analyzing CVE-2023-7209
+2025-12-23 14:15:08 INFO     Analysis time: 0.00012683868408203125 seconds
+2025-12-23 14:15:08 INFO     Analyzing CVE-2023-7193
+2025-12-23 14:15:33 INFO     Analyzing CVE-2023-7193
+2025-12-23 14:15:33 INFO     Analysis time: 0.0001811981201171875 seconds
+2025-12-23 14:15:33 INFO     Analyzing CVE-2023-7191
+2025-12-23 14:15:38 INFO     Analyzing CVE-2023-7191
+2025-12-23 14:15:38 INFO     Analysis time: 0.00010633468627929688 seconds
+2025-12-23 14:15:38 INFO     Analyzing CVE-2023-7190
+2025-12-23 14:15:43 INFO     Analyzing CVE-2023-7190
+2025-12-23 14:15:43 INFO     Analysis time: 0.00010919570922851562 seconds
+2025-12-23 14:15:43 INFO     Analyzing CVE-2023-7189
+2025-12-23 14:15:51 INFO     Analyzing CVE-2023-7189
+2025-12-23 14:15:51 INFO     Analysis time: 0.0001671314239501953 seconds
+2025-12-23 14:15:51 INFO     Analyzing CVE-2023-7188
+2025-12-23 14:15:55 INFO     Analyzing CVE-2023-7188
+2025-12-23 14:15:55 INFO     Analysis time: 0.00010943412780761719 seconds
+2025-12-23 14:15:55 INFO     Analyzing CVE-2023-7187
+2025-12-23 14:16:00 INFO     Analyzing CVE-2023-7187
+2025-12-23 14:16:00 INFO     Analysis time: 0.00014448165893554688 seconds
+2025-12-23 14:16:00 INFO     Analyzing CVE-2023-7186
+2025-12-23 14:16:04 INFO     Analyzing CVE-2023-7186
+2025-12-23 14:16:04 INFO     Analysis time: 0.00018334388732910156 seconds
+2025-12-23 14:16:04 INFO     Analyzing CVE-2023-7185
+2025-12-23 14:16:08 INFO     Analyzing CVE-2023-7185
+2025-12-23 14:16:08 INFO     Analysis time: 0.0004646778106689453 seconds
+2025-12-23 14:16:08 INFO     Analyzing CVE-2023-7184
+2025-12-23 14:16:13 INFO     Analyzing CVE-2023-7184
+2025-12-23 14:16:13 INFO     Analysis time: 0.0001819133758544922 seconds
+2025-12-23 14:16:13 INFO     Analyzing CVE-2023-7183
+2025-12-23 14:16:18 INFO     Analyzing CVE-2023-7183
+2025-12-23 14:16:18 INFO     Analysis time: 0.0003859996795654297 seconds
+2025-12-23 14:16:18 INFO     Analyzing CVE-2023-7181
+2025-12-23 14:16:41 INFO     Analyzing CVE-2023-7181
+2025-12-23 14:16:41 INFO     Analysis time: 0.00015354156494140625 seconds
+2025-12-23 14:16:41 INFO     Analyzing CVE-2023-7180
+2025-12-23 14:16:52 ERROR    cvemap search failed for CVE-2023-7180: ______   _____  ____ ___  ____  ____
+  / ___/ | / / _ \/ __ \__ \/ __ \/ __ \
+ / /__ | |/ /  __/ / / / / / /_/ / /_/ /
+ \___/ |___/\___/_/ /_/ /_/\__,_/ .___/
+                               /_/
+
+
+		projectdiscovery.io
+
+[[34mINF[0m] ⚠️ Important: cvemap uses an older API version that will be discontinued on August 1, 2025.
+[[34mINF[0m] Please migrate to 'vulnx' for continued access to vulnerability data.
+[[34mINF[0m] Install: go install github.com/projectdiscovery/cvemap/cmd/vulnx@latest
+[[1;31mFTL[0m] Error getting CVEs: Post "https://cve.projectdiscovery.io/api/v1/cves": cause="no address found for host"
+2025-12-23 14:16:52 INFO     Analyzing CVE-2023-7179
+2025-12-23 14:17:01 INFO     Analyzing CVE-2023-7179
+2025-12-23 14:17:01 INFO     Analysis time: 0.00010228157043457031 seconds
+2025-12-23 14:17:01 INFO     Analyzing CVE-2023-7178
+2025-12-23 14:17:10 INFO     Analyzing CVE-2023-7178
+2025-12-23 14:17:10 INFO     Analysis time: 0.00020074844360351562 seconds
+2025-12-23 14:17:10 INFO     Analyzing CVE-2023-7177
+2025-12-23 14:17:17 INFO     Analyzing CVE-2023-7177
+2025-12-23 14:17:17 INFO     Analysis time: 0.00015044212341308594 seconds
+2025-12-23 14:17:17 INFO     Analyzing CVE-2023-7176
+2025-12-23 14:17:20 INFO     Analyzing CVE-2023-7176
+2025-12-23 14:17:20 INFO     Analysis time: 0.0002961158752441406 seconds
+2025-12-23 14:17:20 INFO     Analyzing CVE-2023-7175
+2025-12-23 14:17:24 INFO     Analyzing CVE-2023-7175
+2025-12-23 14:17:24 INFO     Analysis time: 0.00016379356384277344 seconds
+2025-12-23 14:17:24 INFO     Analyzing CVE-2023-7173
+2025-12-23 14:17:29 INFO     Analyzing CVE-2023-7173
+2025-12-23 14:17:29 INFO     Analysis time: 0.00010466575622558594 seconds
+2025-12-23 14:17:29 INFO     Analyzing CVE-2023-7172
+2025-12-23 14:17:34 INFO     Analyzing CVE-2023-7172
+2025-12-23 14:17:34 INFO     Analysis time: 0.00010776519775390625 seconds
+2025-12-23 14:17:34 INFO     Analyzing CVE-2023-7171
+2025-12-23 14:17:48 INFO     Analyzing CVE-2023-7171
+2025-12-23 14:17:48 INFO     Analysis time: 0.0001087188720703125 seconds
+2025-12-23 14:17:48 INFO     Analyzing CVE-2023-7166
+2025-12-23 14:17:54 INFO     Analyzing CVE-2023-7166
+2025-12-23 14:17:54 INFO     Analysis time: 0.00017714500427246094 seconds
+2025-12-23 14:17:54 INFO     Analyzing CVE-2023-7161
+2025-12-23 14:18:04 INFO     Analyzing CVE-2023-7161
+2025-12-23 14:18:04 INFO     Analysis time: 0.00012874603271484375 seconds
+2025-12-23 14:18:04 INFO     Analyzing CVE-2023-7160
+2025-12-23 14:18:12 INFO     Analyzing CVE-2023-7160
+2025-12-23 14:18:12 INFO     Analysis time: 0.00014543533325195312 seconds
+2025-12-23 14:18:12 INFO     Analyzing CVE-2023-7157
+2025-12-23 14:18:15 INFO     Analyzing CVE-2023-7157
+2025-12-23 14:18:15 INFO     Analysis time: 0.00011587142944335938 seconds
+2025-12-23 14:18:15 INFO     Analyzing CVE-2023-7156
+2025-12-23 14:18:20 INFO     Analyzing CVE-2023-7156
+2025-12-23 14:18:20 INFO     Analysis time: 0.00013518333435058594 seconds
+2025-12-23 14:18:20 INFO     Analyzing CVE-2023-7155
+2025-12-23 14:18:24 INFO     Analyzing CVE-2023-7155
+2025-12-23 14:18:24 INFO     Analysis time: 0.00024080276489257812 seconds
+2025-12-23 14:18:24 INFO     Analyzing CVE-2023-7150
+2025-12-23 15:01:34 INFO     Using model: openai
+2025-12-23 15:01:34 INFO     Planning input: product=Samba keyword=Samba version=3.0.20 topic=HTB-LAME
+2025-12-23 15:01:49 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:01:49 INFO     Analyzing CVE-2007-2447
+2025-12-23 15:02:51 INFO     Analyzing CVE-2007-2447
+2025-12-23 15:03:02 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:03:05 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:03:09 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:03:10 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:03:10 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:03:31 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:03:31 INFO     Retrying request to /chat/completions in 0.776094 seconds
+2025-12-23 15:03:33 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:03:39 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:03:39 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:04:05 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:04:05 INFO     Retrying request to /chat/completions in 0.922721 seconds
+2025-12-23 15:04:07 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:04:08 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:04:08 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:04:34 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:04:34 INFO     Retrying request to /chat/completions in 0.995417 seconds
+2025-12-23 15:04:36 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:04:48 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:04:48 INFO     Retrying request to /chat/completions in 0.491370 seconds
+2025-12-23 15:04:49 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:04:49 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:05:13 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:08:17 INFO     Using model: openai
+2025-12-23 15:08:17 INFO     Planning input: product=Samba keyword=Samba version=3.0.20 topic=HTB-LAME
+2025-12-23 15:08:30 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:08:30 INFO     Analyzing CVE-2007-2447
+2025-12-23 15:08:34 INFO     Analyzing CVE-2007-2447
+2025-12-23 15:08:37 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:08:41 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:08:44 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:08:44 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:09:07 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:09:09 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:09:09 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:09:32 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:09:34 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:09:35 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:09:35 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:09:59 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:10:00 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:10:00 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:10:22 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:10:24 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:10:24 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:10:57 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:10:57 INFO     Analysis time: 143.34040880203247 seconds
+2025-12-23 15:10:57 INFO     Searching for general exp info for Samba
+2025-12-23 15:11:10 INFO     Analyzing Samba exploit
+2025-12-23 15:11:13 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:11:18 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:11:18 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:11:18 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:11:41 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:11:42 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:11:42 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:12:05 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:12:06 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:12:06 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:12:31 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:12:33 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:12:35 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:12:35 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:12:57 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:12:58 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:12:58 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:13:21 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:13:21 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:13:21 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:13:44 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:13:44 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:13:44 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:14:07 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:14:07 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:14:07 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:14:30 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:14:32 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:14:32 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:14:32 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:14:55 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:14:55 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:14:55 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:15:21 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:15:22 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:15:22 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:15:45 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:15:45 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:15:45 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:16:08 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:16:09 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:16:09 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:16:32 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:16:35 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:16:36 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:16:36 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:16:59 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:16:59 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:16:59 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:17:23 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:17:23 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:17:23 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:17:36 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:17:37 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:17:37 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:17:58 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:17:58 INFO     Retrying request to /chat/completions in 0.779505 seconds
+2025-12-23 15:17:59 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:17:59 INFO     Analysis time: 408.8960027694702 seconds
+2025-12-23 15:17:59 INFO     Total searching time: 16.911207675933838 seconds, average time: 8.455603837966919 seconds
+2025-12-23 15:17:59 INFO     Total analysis time: 552.2364115715027 seconds, average time: 276.11820578575134 seconds
+2025-12-23 15:47:21 INFO     Using model: openai
+2025-12-23 15:47:21 INFO     Planning input: product=Unknown keyword= version= topic=HTB-LAME
+2025-12-23 15:47:26 INFO     Analyzing CVE-2025-6503
+2025-12-23 15:47:30 INFO     Analyzing CVE-2025-6503
+2025-12-23 15:47:30 INFO     Analysis time: 0.00013303756713867188 seconds
+2025-12-23 15:47:30 INFO     Analyzing CVE-2025-6502
+2025-12-23 15:47:38 INFO     Analyzing CVE-2025-6502
+2025-12-23 15:47:38 INFO     Analysis time: 0.00011467933654785156 seconds
+2025-12-23 15:47:38 INFO     Analyzing CVE-2025-6501
+2025-12-23 15:47:46 INFO     Analyzing CVE-2025-6501
+2025-12-23 15:47:50 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:47:50 INFO     Retrying request to /chat/completions in 0.455057 seconds
+2025-12-23 15:47:51 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:47:51 INFO     Retrying request to /chat/completions in 0.900601 seconds
+2025-12-23 15:47:52 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:47:54 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:47:54 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 15:48:15 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:48:15 INFO     Retrying request to /chat/completions in 0.966617 seconds
+2025-12-23 15:48:17 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:48:17 INFO     Analysis time: 31.213962078094482 seconds
+2025-12-23 15:48:17 INFO     Analyzing CVE-2025-6500
+2025-12-23 15:48:21 INFO     Analyzing CVE-2025-6500
+2025-12-23 15:48:21 INFO     Analysis time: 0.00011992454528808594 seconds
+2025-12-23 15:48:21 INFO     Analyzing CVE-2025-6493
+2025-12-23 15:48:25 INFO     Analyzing CVE-2025-6493
+2025-12-23 15:48:25 INFO     Analysis time: 0.0001354217529296875 seconds
+2025-12-23 15:48:25 INFO     Analyzing CVE-2025-6489
+2025-12-23 15:48:29 INFO     Analyzing CVE-2025-6489
+2025-12-23 15:48:29 INFO     Analysis time: 0.00010848045349121094 seconds
+2025-12-23 15:48:29 INFO     Analyzing CVE-2025-6484
+2025-12-23 15:48:33 INFO     Analyzing CVE-2025-6484
+2025-12-23 15:48:33 INFO     Analysis time: 0.00017023086547851562 seconds
+2025-12-23 15:48:33 INFO     Analyzing CVE-2025-6483
+2025-12-23 15:48:38 INFO     Analyzing CVE-2025-6483
+2025-12-23 15:48:38 INFO     Analysis time: 0.00017333030700683594 seconds
+2025-12-23 15:48:38 INFO     Analyzing CVE-2025-6482
+2025-12-23 15:48:43 INFO     Analyzing CVE-2025-6482
+2025-12-23 15:48:43 INFO     Analysis time: 0.00011348724365234375 seconds
+2025-12-23 15:48:43 INFO     Analyzing CVE-2025-6481
+2025-12-23 15:48:54 INFO     Analyzing CVE-2025-6481
+2025-12-23 15:48:54 INFO     Analysis time: 0.00011944770812988281 seconds
+2025-12-23 15:48:54 INFO     Analyzing CVE-2025-6480
+2025-12-23 15:49:00 INFO     Analyzing CVE-2025-6480
+2025-12-23 15:49:00 INFO     Analysis time: 0.00032448768615722656 seconds
+2025-12-23 15:49:00 INFO     Analyzing CVE-2025-6479
+2025-12-23 15:49:07 INFO     Analyzing CVE-2025-6479
+2025-12-23 15:49:07 INFO     Analysis time: 0.00037169456481933594 seconds
+2025-12-23 15:49:07 INFO     Analyzing CVE-2025-6478
+2025-12-23 15:49:11 INFO     Analyzing CVE-2025-6478
+2025-12-23 15:49:11 INFO     Analysis time: 0.00018072128295898438 seconds
+2025-12-23 15:49:11 INFO     Analyzing CVE-2025-6477
+2025-12-23 15:49:16 INFO     Analyzing CVE-2025-6477
+2025-12-23 15:49:16 INFO     Analysis time: 0.0002067089080810547 seconds
+2025-12-23 15:49:16 INFO     Analyzing CVE-2025-6476
+2025-12-23 15:49:21 INFO     Analyzing CVE-2025-6476
+2025-12-23 15:49:21 INFO     Analysis time: 0.0001671314239501953 seconds
+2025-12-23 15:49:21 INFO     Analyzing CVE-2025-6475
+2025-12-23 15:49:24 INFO     Analyzing CVE-2025-6475
+2025-12-23 15:49:24 INFO     Analysis time: 0.0001728534698486328 seconds
+2025-12-23 15:49:24 INFO     Analyzing CVE-2025-6474
+2025-12-23 15:49:40 INFO     Analyzing CVE-2025-6474
+2025-12-23 15:49:40 INFO     Analysis time: 0.0001087188720703125 seconds
+2025-12-23 15:49:40 INFO     Analyzing CVE-2025-6473
+2025-12-23 15:49:44 INFO     Analyzing CVE-2025-6473
+2025-12-23 15:49:44 INFO     Analysis time: 0.00011801719665527344 seconds
+2025-12-23 15:49:44 INFO     Analyzing CVE-2025-6472
+2025-12-23 15:49:48 INFO     Analyzing CVE-2025-6472
+2025-12-23 15:49:48 INFO     Analysis time: 0.00010561943054199219 seconds
+2025-12-23 15:49:48 INFO     Analyzing CVE-2025-6471
+2025-12-23 15:49:53 INFO     Analyzing CVE-2025-6471
+2025-12-23 15:49:53 INFO     Analysis time: 0.00022411346435546875 seconds
+2025-12-23 15:49:53 INFO     Analyzing CVE-2025-6470
+2025-12-23 15:49:57 INFO     Analyzing CVE-2025-6470
+2025-12-23 15:49:57 INFO     Analysis time: 0.00010561943054199219 seconds
+2025-12-23 15:49:57 INFO     Analyzing CVE-2025-6469
+2025-12-23 15:50:01 INFO     Analyzing CVE-2025-6469
+2025-12-23 15:50:01 INFO     Analysis time: 0.0001201629638671875 seconds
+2025-12-23 15:50:01 INFO     Analyzing CVE-2025-6468
+2025-12-23 15:50:05 INFO     Analyzing CVE-2025-6468
+2025-12-23 15:50:05 INFO     Analysis time: 0.000209808349609375 seconds
+2025-12-23 15:50:05 INFO     Analyzing CVE-2025-6467
+2025-12-23 15:50:09 INFO     Analyzing CVE-2025-6467
+2025-12-23 15:50:09 INFO     Analysis time: 0.00015091896057128906 seconds
+2025-12-23 15:50:09 INFO     Analyzing CVE-2025-6458
+2025-12-23 15:50:22 INFO     Analyzing CVE-2025-6458
+2025-12-23 15:50:22 INFO     Analysis time: 0.00011682510375976562 seconds
+2025-12-23 15:50:22 INFO     Analyzing CVE-2025-6457
+2025-12-23 15:50:25 INFO     Analyzing CVE-2025-6457
+2025-12-23 15:50:25 INFO     Analysis time: 0.0001506805419921875 seconds
+2025-12-23 15:50:25 INFO     Analyzing CVE-2025-6456
+2025-12-23 15:50:41 INFO     Using model: openai
+2025-12-23 15:50:41 INFO     Planning input: product=Samba keyword=Samba version=3.0.20 topic=HTB-LAME
+2025-12-23 15:50:45 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:50:45 INFO     Analyzing CVE-2007-2447
+2025-12-23 15:50:49 ERROR    get_exp_info failed: [Errno 2] No such file or directory: '/home/pentestagent/Desktop/pentest-agent-new/data/exp_info/Samba/HTB-LAME/CVE-2007-2447/ExploitDB'
+Traceback (most recent call last):
+  File "/home/pentestagent/Desktop/pentest-agent-new/agents/planning_agent.py", line 377, in main
+    times = get_exp_info(cve_lst, res_dir, app)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pentestagent/Desktop/pentest-agent-new/utils/cve_info_ec.py", line 819, in get_exp_info
+    total_searching_time, total_analysis_time = analyze_cve_lst(cve_lst, output_dir, app_name)
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pentestagent/Desktop/pentest-agent-new/utils/cve_info_ec.py", line 717, in analyze_cve_lst
+    searching_time, analysis_time = cve_analysis(cve, output_dir)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pentestagent/Desktop/pentest-agent-new/utils/cve_info_ec.py", line 513, in cve_analysis
+    compose(output_dir, cve)
+  File "/home/pentestagent/Desktop/pentest-agent-new/utils/searchers/search_once.py", line 27, in compose
+    s3.search_keyword_local(keyword, os.path.join(target_dir, info_srcs[2]), loose_mode = mode)
+  File "/home/pentestagent/Desktop/pentest-agent-new/utils/searchers/exploitdb_searcher.py", line 404, in search_keyword_local
+    self.create_directories(output_dir)
+  File "/home/pentestagent/Desktop/pentest-agent-new/utils/searchers/exploitdb_searcher.py", line 32, in create_directories
+    for file in directory_path.iterdir():
+  File "/usr/lib/python3.12/pathlib.py", line 1058, in iterdir
+    for name in os.listdir(self):
+                ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/pentestagent/Desktop/pentest-agent-new/data/exp_info/Samba/HTB-LAME/CVE-2007-2447/ExploitDB'
+2025-12-23 15:52:07 INFO     Using model: openai
+2025-12-23 15:52:07 INFO     Planning input: product=Samba keyword=Samba version=3.0.20 topic=HTB-LAME
+2025-12-23 15:52:11 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 15:52:11 INFO     Analyzing CVE-2007-2447
+2025-12-23 15:52:14 INFO     Analyzing CVE-2007-2447
+2025-12-23 15:52:14 INFO     Analysis time: 8.20159912109375e-05 seconds
+2025-12-23 15:52:14 INFO     Searching for general exp info for Samba
+2025-12-23 15:52:29 INFO     Analyzing Samba exploit
+2025-12-23 15:52:32 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:52:32 INFO     Retrying request to /chat/completions in 0.458221 seconds
+2025-12-23 15:52:33 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:52:33 INFO     Retrying request to /chat/completions in 0.938403 seconds
+2025-12-23 15:52:34 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:52:36 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 15:52:36 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 16:13:22 INFO     Using model: openai
+2025-12-23 16:13:22 INFO     Planning input: product=Samba keyword=Samba version=3.0.20 topic=HTB-LAME
+2025-12-23 16:13:22 INFO     Analyzing CVE-2007-2447
+2025-12-23 16:13:38 INFO     Analyzing CVE-2007-2447
+2025-12-23 16:13:43 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 16:13:47 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 16:13:50 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 16:13:51 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 16:13:51 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 16:14:14 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 16:14:15 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 16:14:15 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 16:14:38 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 16:14:40 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 16:14:40 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 16:15:04 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 16:15:08 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 16:15:09 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-23 16:15:09 INFO     Retrying request to /chat/completions in 20.000000 seconds
+2025-12-23 16:15:36 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-23 16:15:36 INFO     Analysis time: 118.09973764419556 seconds
+2025-12-23 16:15:36 INFO     Total searching time: 15.742202043533325 seconds, average time: 15.742202043533325 seconds
+2025-12-23 16:15:36 INFO     Total analysis time: 118.09973764419556 seconds, average time: 118.09973764419556 seconds
+2025-12-23 22:32:45 INFO     Using model: openai
+2025-12-23 22:32:45 INFO     Planning input: product=Apache keyword=Apache exploit version=2.4.18 topic=HTB-SHOCKER
+2025-12-23 22:32:47 WARNING  [CVEMAP] cvemap failed (rc=1). stderr=
+
+   ______   _____  ____ ___  ____  ____
+  / ___/ | / / _ \/ __ \__ \/ __ \/ __ \
+ / /__ | |/ /  __/ / / / / / /_/ / /_/ /
+ \___/ |___/\___/_/ /_/ /_/\__,_/ .___/
+                               /_/
+
+
+		projectdiscovery.io
+
+[[34mINF[0m] ⚠️ Important: cvemap uses an older API version that will be discontinued on August 1, 2025.
+[[34mINF[0m] Please migrate to 'vulnx' for continued access to vulnerability data.
+[[34mINF[0m] Install: go install github.com/projectdiscovery/cvemap/cmd/vulnx@late
+2025-12-23 22:32:49 INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
